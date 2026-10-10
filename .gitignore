@@ -1,0 +1,17 @@
+# Raw data (large, re-downloadable)
+data/raw/*
+!data/raw/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Secrets and local config
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
