@@ -8,7 +8,6 @@ Olist's marketplace is growing, but customer satisfaction is uneven and very few
 - Where is the delivery experience failing, and how much does it hurt customer reviews?
 - What should the business fix first?
 
-*(Update this section with your own words as you learn more from the data.)*
 
 ## 2. Key Questions
 1. How have revenue and orders trended over time?
@@ -36,16 +35,16 @@ Raw CSVs  ->  Python (clean + features)  ->  SQL Server (analysis + views)  ->  
 The raw data is not stored in this repo. See `data/README.md` for download instructions.
 
 ## 6. Data Cleaning Summary
-*(Fill this in after Step 2: what issues you found and how you fixed them.)*
+
 
 ## 7. Key Insights
-*(Fill this in after analysis. Use real numbers, for example: "Late deliveries lowered the average review score from 4.3 to 2.5.")*
+
 
 ## 8. Dashboard
-*(Add screenshots from Power BI here.)*
+
 
 ## 9. Recommendations
-*(3 to 5 clear, quantified actions for the business.)*
+
 
 ## 10. How to Reproduce
 1. Clone this repository
@@ -68,5 +67,3 @@ The raw data is not stored in this repo. See `data/README.md` for download instr
 └── README.md
 ```
 
-## 12. Author
-*Your name* | [LinkedIn](#) | [GitHub](#)
